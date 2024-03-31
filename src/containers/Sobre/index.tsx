@@ -5,10 +5,11 @@ const Sobre = () => (
   <section>
     <Titulo fontSize={16}>Sobre mim</Titulo>
     <Paragrafo tipo="principal">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, cupiditate.
-      Corrupti magni molestiae, laboriosam quaerat, sunt quisquam dolorum dicta
-      ipsam exercitationem inventore, deleniti aut! Necessitatibus, laudantium
-      veniam. Ut, fuga perferendis!
+      Estou no caminho para me tornar um desenvolvedor fullstack Java e estou
+      animado com o meu potencial. Estudar na Ebac está me proporcionando as
+      bases sólidas necessárias para alcançar meus objetivos. Estou comprometido
+      em aprender e crescer, e sei que estou preparado para enfrentar os
+      desafios e triunfar nesta jornada rumo ao sucesso.
     </Paragrafo>
     <GithubSecao>
       <img src="https://github-readme-stats.vercel.app/api?username=brenoac76&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
